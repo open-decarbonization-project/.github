@@ -1,11 +1,8 @@
 # Open Decarbonization Project
 
-The Open Decarbonization Project has been established to inspire the development of best-in-class methodologies supporting emissions quantification, abatement, and removal at scale for heavy industries and emissions removal projects. An Open-Source approach is intended to support continuous peer review and feedback, integrating the latest and most credible science based on current commercially available measurement technology. This collaborative ecosystem fosters the percolation of best practices and the standardization of methodologies through consensus, driving ongoing improvement and relevance in the project’s outputs.
+The Open Decarbonization Project (ODP) has been established to inspire the development of best-in-class methodologies supporting emissions quantification, abatement, and removal at scale for heavy industries and emissions removal projects. 
 
-Recognizing the critical importance of eliminating anthropogenic methane emissions, Context Labs has initially contributed the Next Gen Gas Emissions Quantification Methodology. This near-real time emissions quantification approach is being used by leaders in the oil & gas value chain to support and accelerate their decarbonization efforts. This methodology was developed using several years of R&D and has been tested in the market. This trusted emissions data supports the production of trusted environmental attributes with provenance direct to the source.
+The ODP’s Open-Source approach is intended to support continuous peer review and feedback, with contributed artifacts administered under the MIT Open Source License, integrating the latest and most credible science based on current commercially available measurement technology. This collaborative ecosystem fosters the percolation of best practices and the standardization of methodologies through consensus, driving ongoing improvement and relevance in the project’s outputs.
 
-
-## About
-
-Context Labs is an enterprise technology company dedicated to sourcing, organizing, contextualizing, and securing the world’s climate information. The company enables trust in data, which can be utilized to inform markets. We synthesize disparate, disconnected data from all available data sources — including satellites, aerial flyovers, ground sensors, and other operational assets — to establish a more holistic understanding of ground truth carbon intensity for industrial operations. Data is ingested, contextualized, interconnected, and secured immutably using a combination of advanced graph analytics, artificial intelligence, and blockchain technologies—making climate disclosures fully auditable and preventing misrepresentation.
+The ODP’s intention is to welcome and solicit alternate science-based and measurement-based methodological approaches for carbon accounting of company or project emissions and emissions reduction activities.
 
